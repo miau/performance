@@ -11,3 +11,7 @@ Database:
 This sample assume posts table under "test" calatog(schema).
 Please change user and password on IndexContoller.php before use.
 
+Doctrine2:
+This repository has a git submodule of Doctrine2.
+If you use it, exuecute "git submodule update --init --recursive"
+after "git clone".
