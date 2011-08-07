@@ -10,6 +10,8 @@ For example, C:\path\to\application
 Database:
 This sample assume posts table under "test" calatog(schema).
 Please change user and password on IndexContoller.php before use.
+If you use Doctrine2, you should also change the 
+"resources.doctrine.dbal.connections" settings in application.ini.
 
 Doctrine2:
 This repository has a git submodule of Doctrine2.
